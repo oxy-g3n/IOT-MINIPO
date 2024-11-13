@@ -1,0 +1,6 @@
+using one r-pi pico-w a frontend and a laptop hosted backend, create a tag id submission thing
+for frontend create a webapp that will read all the products and display their tag counts
+
+
+1. using frontend trigger tag reader
+2. using r-pi send data to firebase

@@ -1,0 +1,32 @@
+{
+  "inventory": {
+    "coca-cola": {
+      "name": "coca-cola",
+      "rfid_tags": {
+        "COCA-COLA-1210": {
+          "added": 1731556145,
+          "raw_id": "1071761210"
+        }
+      },
+      "total_quantity": 1
+    },
+    "colgate": {
+      "name": "colgate",
+      "total_quantity": 0
+    },
+    "lays": {
+      "name": "lays",
+      "rfid_tags": {
+        "LAYS-6946": {
+          "added": 1731556167,
+          "raw_id": "455786946"
+        }
+      },
+      "total_quantity": 1
+    },
+    "pepsi": {
+      "name": "pepsi",
+      "total_quantity": 0
+    }
+  }
+}
